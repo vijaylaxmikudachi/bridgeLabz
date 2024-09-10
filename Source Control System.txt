@@ -1,0 +1,23 @@
+Source Control System
+Tracking
+Branching
+Collaboration
+Version History
+Backup
+
+Git
+Performance
+Distributed Nature
+Community Support
+
+Git and Git hub not same
+
+
+
+
+
+https://docs.google.com/document/d/1hjjZw-_Pzw0yY6w3vStFmmMWQRE1_uW7geyZ-ZUY3Yw/edit
+
+configure local machine
+create a repository
+pushing folder on to repo GitHub acc 
